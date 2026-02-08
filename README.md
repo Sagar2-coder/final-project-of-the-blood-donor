@@ -1,0 +1,1 @@
+TheBloodDonor is a web platform that connects blood donors with people in need. Users can register as donors, search nearby donors by blood group and location, and quickly contact them in emergencies. The goal is simple: save lives by making blood donation faster, easier, and accessible to everyone.
